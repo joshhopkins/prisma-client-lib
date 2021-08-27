@@ -15,6 +15,10 @@
     "saveSpec": null,
     "fetchSpec": "latest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshhopkins/prisma-client-lib.git"
+  },
   "_requiredBy": [
     "#USER",
     "/"
